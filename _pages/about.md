@@ -29,8 +29,6 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 For more info
 ------
-Maibam Rakesh Singh
-
 Bharathidasan University, Tiruchirappalli
 
 Phone No. - 9436212439, 7448923683
