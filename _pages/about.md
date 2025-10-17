@@ -18,7 +18,7 @@ Research Interest
 **Stochastic Partial Differential Equations :** Stochastic PDEs reveal fluid behavior through hydrodynamic scaling limits.
 
 **Stochastic Geometry and Random Geometry :** Geometry shaped by randomness, revealing patterns in uncertain space.
-
+------
 Newscast
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
