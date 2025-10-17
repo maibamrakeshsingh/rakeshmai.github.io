@@ -23,11 +23,9 @@ Newscast
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 
-
 Instinct
 ------
 The main configuration file for the site is in the base directory in [_config.yml]
-
 
 For more info
 ------
