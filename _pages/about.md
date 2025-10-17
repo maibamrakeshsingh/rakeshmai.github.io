@@ -19,23 +19,15 @@ Research Interest
 
 **Stochastic Geometry and Random Geometry :** Geometry shaped by randomness, revealing patterns in uncertain space.
 
-Getting started
+Newscast
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 
 
-Site-wide configuration
+Instinct
 ------
 The main configuration file for the site is in the base directory in [_config.yml]
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks]
-How to edit your site's GitHub repository
-------
 
 For more info
 ------
