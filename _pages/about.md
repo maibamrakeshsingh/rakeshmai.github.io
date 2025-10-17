@@ -33,8 +33,8 @@ Maibam Rakesh Singh
 
 Bharathidasan University, Tiruchirappalli
 
-Phone No. - 9436212439 | 7448923683
+Phone No. - 9436212439, 7448923683
 
 Email Id. - maibamrakeshsingh31@gmail.com
 
-Tiruchairappalli | Imphal | India
+Tiruchairappalli, Imphal, India
