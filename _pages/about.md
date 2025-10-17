@@ -11,13 +11,13 @@ A disciple of Mathematical Physics and Statistical Mathematics, decoding the law
 
 Research Interest
 ======
--**Probability Theory :** Percolation theory and interacting particle systems.
+**Probability Theory :** Percolation theory and interacting particle systems.
 
--**Markovian Semigroups :** Extending classical probability to quantum systems.
+**Markovian Semigroups :** Extending classical probability to quantum systems.
 
--**Stochastic Partial Differential Equations :** Stochastic PDEs reveal fluid behavior through hydrodynamic scaling limits.
+**Stochastic Partial Differential Equations :** Stochastic PDEs reveal fluid behavior through hydrodynamic scaling limits.
 
--**Stochastic Geometry and Random Geometry :** Geometry shaped by randomness, revealing patterns in uncertain space.
+**Stochastic Geometry and Random Geometry :** Geometry shaped by randomness, revealing patterns in uncertain space.
 
 Getting started
 ======
