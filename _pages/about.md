@@ -11,9 +11,12 @@ A disciple of Mathematical Physics and Statistical Mathematics, decoding the law
 
 Research Interest
 ======
-**Probability Theory :** Percolation theory and interacting particle systems./
-**Markovian Semigroups :** Extending classical probability to quantum systems./
-**Stochastic Partial Differential Equations :** Stochastic PDEs reveal fluid behavior through hydrodynamic scaling limits./
+**Probability Theory :** Percolation theory and interacting particle systems.
+
+**Markovian Semigroups :** Extending classical probability to quantum systems.
+
+**Stochastic Partial Differential Equations :** Stochastic PDEs reveal fluid behavior through hydrodynamic scaling limits.
+
 **Stochastic Geometry and Random Geometry :** Geometry shaped by randomness, revealing patterns in uncertain space.
 
 Newscast
@@ -28,8 +31,12 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 For more info
 ------
-Maibam Rakesh Singh/
-Bharathidasan University, Tiruchirappalli/
-Phone No. - 9436212439 | 7448923683/
-Email Id. - maibamrakeshsingh31@gmail.com/
+Maibam Rakesh Singh
+
+Bharathidasan University, Tiruchirappalli
+
+Phone No. - 9436212439 | 7448923683
+
+Email Id. - maibamrakeshsingh31@gmail.com
+
 Tiruchairappalli | Imphal | India
