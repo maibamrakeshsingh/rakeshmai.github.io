@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        :  maibiya_r_khumancha
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  Maibam Rakesh Singh
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
