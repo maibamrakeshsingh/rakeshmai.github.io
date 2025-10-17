@@ -31,4 +31,8 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/)
+Maibam Rakesh Singh
+Bharathidasan University, Tiruchirappalli
+Phone No. - 9436212439 | 7448923683
+Email Id. - maibamrakeshsingh31@gmail.com
+Tiruchairappalli | Imphal | India
