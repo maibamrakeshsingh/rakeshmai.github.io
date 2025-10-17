@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 A disciple of Mathematical Physics and Statistical Mathematics, decoding the laws of natural phenomena.
+
 Research Interest
 ======
 -**Probability Theory :** Percolation theory and interacting particle systems.
