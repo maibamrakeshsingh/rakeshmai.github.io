@@ -10,7 +10,7 @@ redirect_from:
 A disciple of Mathematical Physics and Statistical Mathematics, decoding the laws of natural phenomena.
 
 Research Interest
-======
+-------
 **Probability Theory :** Percolation theory and interacting particle systems.
 
 **Markovian Semigroups :** Extending classical probability to quantum systems.
@@ -18,9 +18,9 @@ Research Interest
 **Stochastic Partial Differential Equations :** Stochastic PDEs reveal fluid behavior through hydrodynamic scaling limits.
 
 **Stochastic Geometry and Random Geometry :** Geometry shaped by randomness, revealing patterns in uncertain space.
-------
+
 Newscast
-======
+-------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 
 Instinct
