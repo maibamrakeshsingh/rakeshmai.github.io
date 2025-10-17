@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Maibam Rakesh Singh"
 author_profile: true
 redirect_from: 
   - /about/
